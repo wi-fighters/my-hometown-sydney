@@ -23,10 +23,17 @@ body {
     padding: t l+r b;
     padding: t r b l;
 */
-main {
-    padding: 0 2rem;
+
+main section,
+main footer {
+    padding: 1rem 2rem 2rem;
 }
 
 section:nth-child(2n) {
     background-color: paleturquoise;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(255, 255, 154);
 }
