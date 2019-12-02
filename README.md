@@ -18,3 +18,6 @@ Not strictly in this order, but more or less...
 - Set up the HTML structure
 - Include Normalize CSS
 - Create custom CSS file
+- Styled the layout (boxes)
+- Start the global typography (body text)
+- Refine visual details
