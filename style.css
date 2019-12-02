@@ -43,3 +43,18 @@ footer {
     background-color: rgb(255, 255, 154);
 }
 
+a:link {
+    color: navy;
+}
+
+a:visited {
+    color: rgb(0, 36, 56);    
+}
+
+a:hover {
+    color: rgb(66, 154, 255);    
+}
+
+a:active {
+    color: rgb(0, 0, 255);    
+}
