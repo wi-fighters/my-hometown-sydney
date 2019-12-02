@@ -1,0 +1,11 @@
+header {
+    background-image: url('./hero_768x512.jpg');
+}
+
+/* make the image full-width and respect the aspeect-ratio */
+.hero {
+    max-width: 100%;
+    height: auto;
+}
+
+/* add whitespace to the left and right of the main element */
