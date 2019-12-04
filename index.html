@@ -13,8 +13,10 @@
 </head>
 <body>
     <header>
-        <!-- TODO: provide alternative size for desktop -->
-        <img class="hero" src="hero_768x512.jpg" alt="Sydney Harbour on a sunny day" width="768" height="512">
+        <picture>
+            <source media="(min-width: 992px)" srcset="hero_1400x933.jpg">
+            <img class="hero" src="hero_768x512.jpg" alt="Sydney Harbour on a sunny day" width="768" height="512">
+        </picture>
     </header>
     <main>
         <section>
